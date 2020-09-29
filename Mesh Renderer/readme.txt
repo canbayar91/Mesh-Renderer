@@ -1,0 +1,20 @@
+------------- Controls -------------
+-v : Vertex Mode
+-e : Edge Mode
+-f : Face Mode (Default)
+-n : Next Mesh
+-p : Previous Mesh
+-x : Move in +x direction
+-X : Move in -x direction
+-y : Move in +y direction
+-Y : Move in -y direction
+-z : Move in +z direction
+-Z : Move in -z direction
+-s : Scale to x0.5 size
+-S : Scale to x2 size
+-r : Reset all options
+
+-Left Arrow Key: Rotate counterclockwise
+-Right Arrow Key: Rotate clockwise
+-Up Arrow Key: Zoom in
+-Down Arrow Key: Zoom out
